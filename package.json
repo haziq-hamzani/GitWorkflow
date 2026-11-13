@@ -1,0 +1,8 @@
+{
+  "name": "git101",
+  "private": true,
+  "version": "0.0.0-development",
+  "devDependencies": {
+    "semantic-release": "^24"
+  }
+}
